@@ -1,0 +1,17 @@
+D:\прикладне програмування\CoursProject.DAL\bin\Debug\net8.0\CoursProject.DAL.deps.json
+D:\прикладне програмування\CoursProject.DAL\bin\Debug\net8.0\CoursProject.DAL.dll
+D:\прикладне програмування\CoursProject.DAL\bin\Debug\net8.0\CoursProject.DAL.pdb
+D:\прикладне програмування\CoursProject.DAL\bin\Debug\net8.0\CoursProject.Core.dll
+D:\прикладне програмування\CoursProject.DAL\bin\Debug\net8.0\CoursProject.Core.pdb
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.csproj.AssemblyReference.cache
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.AssemblyInfoInputs.cache
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.AssemblyInfo.cs
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.csproj.CoreCompileInputs.cache
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursPro.AF44466E.Up2Date
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.dll
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\refint\CoursProject.DAL.dll
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.pdb
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\ref\CoursProject.DAL.dll
+D:\прикладне програмування\CoursProject.DAL\bin\Debug\net8.0\CoursProject.DAL.runtimeconfig.json
+D:\прикладне програмування\CoursProject.DAL\obj\Debug\net8.0\CoursProject.DAL.genruntimeconfig.cache

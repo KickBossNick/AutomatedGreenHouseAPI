@@ -1,0 +1,12 @@
+D:\прикладне програмування\CoursProject.Core\bin\Debug\net8.0\CoursProject.Core.deps.json
+D:\прикладне програмування\CoursProject.Core\bin\Debug\net8.0\CoursProject.Core.dll
+D:\прикладне програмування\CoursProject.Core\bin\Debug\net8.0\CoursProject.Core.pdb
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\CoursProject.Core.csproj.AssemblyReference.cache
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\CoursProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\CoursProject.Core.AssemblyInfoInputs.cache
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\CoursProject.Core.AssemblyInfo.cs
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\CoursProject.Core.csproj.CoreCompileInputs.cache
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\CoursProject.Core.dll
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\refint\CoursProject.Core.dll
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\CoursProject.Core.pdb
+D:\прикладне програмування\CoursProject.Core\obj\Debug\net8.0\ref\CoursProject.Core.dll

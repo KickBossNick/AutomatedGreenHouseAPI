@@ -1,0 +1,17 @@
+D:\прикладне програмування\CoursProject.BLL\bin\Debug\net8.0\CoursProject.BLL.deps.json
+D:\прикладне програмування\CoursProject.BLL\bin\Debug\net8.0\CoursProject.BLL.dll
+D:\прикладне програмування\CoursProject.BLL\bin\Debug\net8.0\CoursProject.BLL.pdb
+D:\прикладне програмування\CoursProject.BLL\bin\Debug\net8.0\CoursProject.Core.dll
+D:\прикладне програмування\CoursProject.BLL\bin\Debug\net8.0\CoursProject.DAL.dll
+D:\прикладне програмування\CoursProject.BLL\bin\Debug\net8.0\CoursProject.Core.pdb
+D:\прикладне програмування\CoursProject.BLL\bin\Debug\net8.0\CoursProject.DAL.pdb
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursProject.BLL.csproj.AssemblyReference.cache
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursProject.BLL.AssemblyInfoInputs.cache
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursProject.BLL.AssemblyInfo.cs
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursProject.BLL.csproj.CoreCompileInputs.cache
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursPro.B33AC287.Up2Date
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursProject.BLL.dll
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\refint\CoursProject.BLL.dll
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\CoursProject.BLL.pdb
+D:\прикладне програмування\CoursProject.BLL\obj\Debug\net8.0\ref\CoursProject.BLL.dll
