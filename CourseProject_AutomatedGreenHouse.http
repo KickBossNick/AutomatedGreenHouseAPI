@@ -1,0 +1,6 @@
+@CourseProject_AutomatedGreenHouse_HostAddress = http://localhost:5121
+
+GET {{CourseProject_AutomatedGreenHouse_HostAddress}}/GreenHouse/
+Accept: application/json
+
+###
